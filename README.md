@@ -4,4 +4,4 @@ I am creating repo locally
 
 # Local Development
 
-1. Open index.html in your browser.
+1. This repo is related to learning branching
